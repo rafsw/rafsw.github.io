@@ -3,7 +3,7 @@ url:              http://rafaelsw.com
 permalink:        pretty
 highlighter:      pygments
 markdown:         kramdown
-google_analytics: UA-21332781-7
+google_analytics:
 timezone:         Europe/London
 paginate: 5
 gems:
